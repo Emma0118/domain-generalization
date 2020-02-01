@@ -46,5 +46,11 @@ Li, Y., Yang, Y., Zhou, W., & Hospedales, T. M. (2019). arXiv preprint arXiv:190
 code: [Pytorch](https://github.com/liyiying/Feature_Critic)
 
 
+### Other references
+
++ [DLOW: Domain Flow for Adaptation and Generalization](https://pdfs.semanticscholar.org/cbe1/a8b4712654f382192dc1ccaf00ddfc12f57b.pdf)
+
+code: [Pytorch](https://github.com/Euiyeon-Kim/DLOW-Pytorch)
+
 
 

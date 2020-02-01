@@ -4,13 +4,13 @@
 + **(MTAE)** [Domain generalization for object recognition with multi-task autoencoders](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Ghifary_Domain_Generalization_for_ICCV_2015_paper.pdf) (143) <br>
 Ghifary, Muhammad, W. Bastiaan Kleijn, Mengjie Zhang, and David Balduzzi.
 Proceedings of the IEEE International Conference on Computer Vision (ICCV) *2015*<br>
-code: [Keras](https://github.com/ghif/mtae)
+code: [Keras](https://github.com/ghif/mtae) [Pytorch](https://github.com/Emma0118/mate)
 
 
 + **(MMD-AAE)** [Domain generalization with adversarial feature learning](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2932.pdf) (50) *2019-04-30*<br>
 Li, Haoliang, Sinno Jialin Pan, Shiqi Wang, and Alex C. Kot.
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) *2018*.<br>
-code: None
+code: [Pytorch](https://github.com/YuqiCui/MMD_AAE)
 
 ### Deep neural network-based Methods
 + **(Epi-FCR)** [Episodic Training for Domain Generalization](https://arxiv.org/abs/1902.00113) (10) *2019-01-31*<br>

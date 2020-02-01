@@ -10,7 +10,7 @@ code: [Keras](https://github.com/ghif/mtae) [Pytorch](https://github.com/Emma011
 + **(MMD-AAE)** [Domain generalization with adversarial feature learning](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/2932.pdf) (50) *2019-04-30*<br>
 Li, Haoliang, Sinno Jialin Pan, Shiqi Wang, and Alex C. Kot.
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) *2018*.<br>
-code: None
+code: [Pytorch](https://github.com/YuqiCui/MMD_AAE)
 
 ### Deep neural network-based Methods
 + **(Epi-FCR)** [Episodic Training for Domain Generalization](https://arxiv.org/abs/1902.00113) (10) *2019-01-31*<br>

@@ -23,7 +23,7 @@ Carlucci, Fabio Maria, Antonio D'Innocente, Silvia Bucci, Barbara Caputo, and Ta
 Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) *2019*.<br>
 code: [Pytorch](https://github.com/fmcarlucci/JigenDG)
 
-+ **(CCSA)** Unified deep supervised domain adaptation and generalization (127) *2017-09-28*<br>
++ **(CCSA)** [Unified deep supervised domain adaptation and generalization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Motiian_Unified_Deep_Supervised_ICCV_2017_paper.pdf) (127) *2017-09-28*<br>
 Motiian, Saeid, Marco Piccirilli, Donald A. Adjeroh, and Gianfranco Doretto.
 Proceedings of the IEEE International Conference on Computer Vision (ICCV) 2017.<br>
 code: [Keras](https://github.com/samotiian/CCSA)

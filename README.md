@@ -41,7 +41,7 @@ code: [Pytorch](https://github.com/mil-tokyo/dg_mmld)
 Dou, Qi, et al.Advances in Neural Information Processing Systems. *2019*<br>
 code: [Tensorflow](https://github.com/biomedia-mira/masf)
 
-+ [Feature-Critic Networks for Heterogeneous Domain Generalization](http://proceedings.mlr.press/v97/li19l/li19l.pdf) <br>
++ [Feature-Critic Networks for Heterogeneous Domain Generalization](https://arxiv.org/pdf/1901.11448) <br>
 Li, Y., Yang, Y., Zhou, W., & Hospedales, T. M. (2019). arXiv preprint arXiv:1901.11448.<br>
 code: [Pytorch](https://github.com/liyiying/Feature_Critic)
 
